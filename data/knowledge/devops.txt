@@ -1,0 +1,1 @@
+DevOps roadmap: Linux/Unix, shell commands, networking, Git, Docker, CI/CD, cloud fundamentals and Kubernetes. Learn Linux permissions, processes and networking before advanced automation.

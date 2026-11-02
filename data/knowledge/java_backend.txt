@@ -1,0 +1,1 @@
+Java backend roadmap: Core Java, OOP, collections, exceptions, streams and concurrency should lead into SQL, REST APIs, Spring Boot, JPA/Hibernate, testing, Git and Docker.

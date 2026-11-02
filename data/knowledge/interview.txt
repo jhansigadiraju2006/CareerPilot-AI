@@ -1,0 +1,1 @@
+Interview preparation should combine coding, core CS, project explanation and timed mock interviews. Java interviews commonly cover OOP, collections, exceptions, JVM basics, SQL, REST and Spring.
